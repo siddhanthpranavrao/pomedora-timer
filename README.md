@@ -1,1 +1,1 @@
-# pomedora-timer
+# Pomedora Timer
